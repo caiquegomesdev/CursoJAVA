@@ -1,1 +1,3 @@
-/.metadata/
+.gitignore/
+.metadata/
+.recommenders/
